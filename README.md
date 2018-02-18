@@ -2,36 +2,34 @@
 
 ## Contents
 
-## Introduction :wave:
+## :wave: Introduction 
 
 Full stack Rails and JavaScript developer. 
 
 I am an alumnus of Makers Academy, a highly selective tech bootcamp based in London, UK. 
 
-## Tech Experience :computer:
-### Makers Academy, London (March 2016 - June 2016)
+## :computer: Tech Experience 
+### Makers Academy, London 
+#### (March 2016 - June 2016)
 
-### Thinkful, USA (October 2014 - January 2015)
+### Thinkful, USA 
+#### (October 2014 - January 2015)
 
 ## Other Experience :briefcase:
 ### AVTEL
-#### CFO 
-##### (June 2017 - Present)
+#### CFO (June 2017 - Present)
 
 ### Imagine Industries
-#### Director 
-##### (April 2012 - Present)
+#### Director (April 2012 - Present)
 
 ### Prosperity Capital Partners 
 #### Consultant
 
 ### Octopus Investments
-#### Consultant
-##### (April 2015 - March 2016)
+#### Consultant (April 2015 - March 2016)
 
 ### Peabody
-#### Corporate Finance Consultant
-##### (May 2014 - April 2015)
+#### Corporate Finance Consultant (May 2014 - April 2015)
 
 ### KPMG Corporate Finance LLC
 #### Vice President
@@ -45,8 +43,8 @@ I am an alumnus of Makers Academy, a highly selective tech bootcamp based in Lon
 #### Audit Assistant Manager 
 ##### (February 2005 - December 2008)
 
-## Education :mortar_board:
+## :mortar_board: Education 
 
-## Other Links :link:
+## :link: Other Links 
 
-## Personal Interests :hamburger:
+## :hamburger: Personal Interests 
