@@ -9,6 +9,10 @@ Full stack Rails and JavaScript developer.
 I am an alumnus of Makers Academy, a highly selective tech bootcamp based in London, UK. 
 
 ## :computer: Tech Experience 
+### ModelPro 
+#### Founder, Australia (July 2017 - Present)
+Developed a full-feature Learning Management System (LMS) using Rails 5. 
+
 ### Makers Academy, London 
 #### (March 2016 - June 2016)
 
@@ -17,16 +21,16 @@ I am an alumnus of Makers Academy, a highly selective tech bootcamp based in Lon
 
 ## :briefcase: Other Experience 
 ### AVTEL
-#### CFO (June 2017 - Present)
+#### CFO, Singapore (June 2017 - Present)
 
 ### Imagine Industries
-#### Director (April 2012 - Present)
+#### Director, Australia (April 2012 - Present)
 
 ### Prosperity Capital Partners 
-#### Consultant
+#### Consultant, London UK (May 2016 - June 2017)
 
 ### Octopus Investments
-#### Consultant (April 2015 - March 2016)
+#### Consultant, London UK (April 2015 - March 2016)
 
 ### Peabody
 #### Corporate Finance Consultant - London, UK (May 2014 - April 2015)
