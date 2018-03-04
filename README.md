@@ -67,7 +67,7 @@ I delivered financial and commercial advice to a range of public and private sec
 
 ---
 
-![](/images/job_kpmgaus.png | width=100 "KPMG Australia Logo") 
+![](/images/job_kpmgaus.png){:height="700px" width="400px"}
 ### KPMG Real Estate Advisory
 #### Executive - Brisbane, Australia(January 2009 - August 2012)
 I advised private and public sector clients on a range of real estate and infrastructure engagements, involving either single assets or asset portfolios. Engagements included real estate transactions, strategy development and implementation, policy development, financial modelling and deal due diligence.
